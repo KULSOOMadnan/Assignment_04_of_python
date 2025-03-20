@@ -1,0 +1,3 @@
+[submodule "projects-of-python"]
+	path = projects-of-python
+	url = https://github.com/KULSOOMadnan/Python-Cli-projects.git
