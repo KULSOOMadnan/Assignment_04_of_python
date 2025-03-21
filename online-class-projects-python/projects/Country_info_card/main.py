@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 def fetch_country(country_name):
-    url = f'https://restcountries.com/name/{country_name}'
+    url = f'https://restcountries.com/v3/name/{country_name}'
     
     response= requests.get(url)
     print(response)
@@ -26,6 +26,7 @@ def main():
     
     if country_name:
         country_info = fetch_country(country_name)
+        
         if country_info:
             name , capital , population , area , currency , region = country_info
             
