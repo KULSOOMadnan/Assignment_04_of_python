@@ -1,7 +1,7 @@
 import requests
 from pprint import pprint 
 
-API_KEY ='2a091fed0ea840af167b65726723d0b0'
+API_KEY =''
 
 city = input ('Enter a City :  ')
 
