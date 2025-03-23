@@ -1,7 +1,7 @@
 <h1 align="center">📚 Online Class Python Projects</h1>
 
 <p align="center">
-A collection of Python projects developed during my online classes .this repository includes various beginner-to-intermediate Python programs that demonstrate core programming concepts and problem-solving skills.and  projects directory  range from games to utility applications, showcasing various programming concepts and problem-solving skills.
+A collection of Python projects developed during my online classes .this repository includes various <b>beginner-to-intermediate </b> Python programs that demonstrate core programming concepts and problem-solving skills.and  projects directory  range from games to utility applications, showcasing various programming concepts and problem-solving skills.
 </p>
 
 <h2>📌 Projects Included</h2>
@@ -78,4 +78,4 @@ python projects/weather-app/weather.py</code></pre>
 
 <h2>📎 Project Link</h2>
 
-<a href="https://github.com/KULSOOMadnan/Assignment_04_of_python">👉 Explore the full project on GitHub</a>
+<a href="https://github.com/KULSOOMadnan/Assignment_04_of_python/tree/main/online-class-projects-python/projects">👉 Explore the full project on GitHub</a>
